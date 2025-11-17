@@ -1,6 +1,6 @@
 # AWS Cloud Security Project
 
-###🌐 Project Overview
+🌐 Project Overview
 This project simulates a real-world cloud security monitoring and incident response environment.  
 The goal is to design and implement an end-to-end security pipeline that includes logging, alerting, threat detection, and investigation processes using AWS native services and Splunk.
 
